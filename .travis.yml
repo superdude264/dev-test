@@ -1,2 +1,4 @@
 language: java
 jdk: openjdk10
+notifications:
+  slack: dev-test-project:PLBIuuTOvb2k6WuX7HqeZx9O
