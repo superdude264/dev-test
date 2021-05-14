@@ -1,2 +1,2 @@
 # dev-test
-Simple repo for testing purposes. Just integrates w/ various tools.
+Simple repo for testing purposes. Just integrates w/ various tools (Slack, Jira, & GitHub).
